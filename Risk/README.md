@@ -73,5 +73,5 @@ Future iterations will improve the functions and other features.
 Include links to your repository, slides and kanban board. Feel free to include any other links associated with your project.
 
 [Repository](https://github.com/miguestepa/Project-Week-1-Build-Your-Own-Game)  
-[Slides](https://slides.com/)  
+[Slides](https://docs.google.com/presentation/d/1h2Hs8bdl9TwERaq5Gc5g_P1w6UONyoOqMIwGJzavy3o/edit?usp=sharing)  
 [Trello](https://trello.com/b/R1gsNu8W/ironhack-project-week1)  
